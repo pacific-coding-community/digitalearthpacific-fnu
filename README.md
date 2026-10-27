@@ -5,11 +5,11 @@ Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Dis
 
 <img width="920" height="320" alt="image" src="https://github.com/user-attachments/assets/4b98f165-b2d7-4670-865f-c8a1dfca9db4" />
 
-Course dates: 28 – 30 October 2026
-Time: 8am – 5pm
-Venue: College of Engineering & Technical Vocational Education & Training (CETVET), Derrick Campus, Samabula, Suva, Fiji (Classroom for theory session - B316 and Computer Laboratory - B314)
-Host institution: Fiji National University (FNU)
-Course focus: Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Disaster Impact
+Course dates: 28 – 30 October 2026  
+Time: 8am – 5pm  
+Venue: College of Engineering & Technical Vocational Education & Training (CETVET), Derrick Campus, Samabula, Suva, Fiji (Classroom for theory session - B316 and Computer Laboratory - B314)  
+Host institution: Fiji National University (FNU)  
+Course focus: Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Disaster Impact  
 
 Instructor: Dr Jie Shan, Purdue University
 Dr. Jie Shan is the Reilly Professor of Civil and Construction Engineering at Purdue University, with a courtesy appointment in the Department of Earth, Atmospheric, and Planetary Sciences. His research focuses on geospatial sensing and modeling, particularly advanced methods for automated mapping, LiDAR data analytics, 3D reconstruction, and vision-based positioning. He has made significant contributions to photogrammetry and laser ranging, advancing both theoretical foundations and practical applications in geospatial localization, mapping, and intelligence.
