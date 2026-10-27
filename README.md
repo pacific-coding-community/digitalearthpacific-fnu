@@ -3,15 +3,27 @@ EO-Based GRSS Training for PICTS:
 Fiji National University (FNU)
 Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Disaster Impacts
 
-<img width="920" height="320" alt="image" src="https://github.com/user-attachments/assets/4b98f165-b2d7-4670-865f-c8a1dfca9db4" />
-
 Course dates: 28 – 30 October 2026  
 Time: 8am – 5pm  
 Venue: College of Engineering & Technical Vocational Education & Training (CETVET), Derrick Campus, Samabula, Suva, Fiji (Classroom for theory session - B316 and Computer Laboratory - B314)  
 Host institution: Fiji National University (FNU)  
 Course focus: Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Disaster Impact  
 
-Instructor: Dr Jie Shan, Purdue University
+27 October 2026: DEM Exporter : https://github.com/nicholasmetherall/dem-exporter
+
+cop-dem-glo-sample
+Digital Earth Pacific FNU : https://github.com/pacific-coding-community/digitalearthpacific-fnu/tree/main
+<img width="359" height="266" alt="cop-dem-glo-sample" src="https://github.com/user-attachments/assets/3d990fe7-38aa-402c-97f2-4d6e3acef975" />
+
+
+Course Google Drive materials: https://drive.google.com/drive/folders/13nD9Zau3nddDtrKyoRqTl6_hEoPetyVl?usp=sharing
+image
+
+
+
+
+### Instructor: Dr Jie Shan, Purdue University  
+
 Dr. Jie Shan is the Reilly Professor of Civil and Construction Engineering at Purdue University, with a courtesy appointment in the Department of Earth, Atmospheric, and Planetary Sciences. His research focuses on geospatial sensing and modeling, particularly advanced methods for automated mapping, LiDAR data analytics, 3D reconstruction, and vision-based positioning. He has made significant contributions to photogrammetry and laser ranging, advancing both theoretical foundations and practical applications in geospatial localization, mapping, and intelligence.
 
 Dr. Shan is an IEEE Fellow and a Fellow of the American Society for Photogrammetry and Remote Sensing (ASPRS). His honors include the ASPRS Talbert Abrams Grand Award, the ESRI Award for Best Scientific Paper in GIS (First Class), the ASPRS Fairchild Award, and the Schwidefsky Medal from the International Society for Photogrammetry and Remote Sensing (ISPRS).
