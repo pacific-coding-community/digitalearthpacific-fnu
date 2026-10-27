@@ -1,4 +1,4 @@
-# digitalearthpacific-usp-2026
+# digitalearthpacific-fnu-2026
 EO-Based GRSS Training for PICTS: 
 Fiji National University (FNU)
 Earth Observation Multi-Temporal Change Detection for Coastal Monitoring and Disaster Impacts
